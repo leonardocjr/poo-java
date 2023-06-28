@@ -1,0 +1,15 @@
+O que e como entregar:
+
+a) Deverá resolver os seguintes exercícios:
+
+- Exercício "A3": sobre saída de dados passando parâmetro na "execução" da aplicação. Nome do arquivo: "A3+nome do aluno";
+
+- Exercício "G1": calculadora na qual o usuário faz entrada de dados. Nome do arquivo: "G1+nome do aluno";
+
+- Os 3 Exercícios do último slide:
+
+      1º) Uso de String: O usuário informa uma frase, depois escolhe uma letra, a aplicação procura a letra na frase e informa quantas vezes esta apareceu(ram) na frase e a(s) posição (ões) desta(s). Nome do arquivo: "ContLet+nome do aluno";
+
+      2º) Uso de vetor: O tamanho do vetor é definido pelo valor de uma variável local. Deve permitir que o usuário entre com diversos valores, depois a aplicação de imprimir estes valores em ordem inversa ao da entrada. Nome do arquivo: "VetorInverso+nome do aluno";
+
+      3º) Uso de matriz: Idem ao 2º exercício, porém utilizando uma matriz. . Nome do arquivo: "MatrizInversa+nome do aluno";
